@@ -9,7 +9,7 @@ this_directory = Path(__file__).parent
 with open(this_directory / "requirements.txt") as f:
     requirements = f.read().splitlines()
 
-with open(this_directory / "README.md") as f:
+with open(this_directory / "readme.md") as f:
     readme = f.read()
 
 setup(
