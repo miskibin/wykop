@@ -1,6 +1,6 @@
 from setuptools import setup, find_packages
 
-__version__ = "1.0.2"
+__version__ = "1.0.4"
 __author__ = "Michał Skibiński"
 
 
@@ -10,7 +10,7 @@ setup(
     version=__version__,
     author=__author__,
     description="Python client for interacting with the Wykop API v3.",
-    long_description="Look at the GitHub repository for more information"
+    long_description="docs: https://github.com/michalskibinski109/wykop",
     author_email="michalskibinski109@gmail.com",
     url="https://github.com/michalskibinski109/wykop",
     packages=find_packages(),
