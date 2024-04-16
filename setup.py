@@ -6,15 +6,12 @@ __author__ = "Michał Skibiński"
 
 this_directory = Path(__file__).parent
 
-with open(this_directory / "requirements.txt") as f:
-    requirements = f.read().splitlines()
-
 with open(this_directory / "readme.md") as f:
     readme = f.read()
 
 setup(
     name="wykop",
-    install_requires=requirements,
+    install_requires=["httpx", "loguru"],
     version=__version__,
     author=__author__,
     description="Python client for interacting with the Wykop API v3.",
