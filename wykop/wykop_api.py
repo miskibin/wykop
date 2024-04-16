@@ -1,5 +1,7 @@
+from urllib.parse import urljoin
 import httpx
 from typing import Any, Dict, Optional, Literal
+from loguru import logger
 
 
 class WykopAPI:
@@ -18,8 +20,8 @@ class WykopAPI:
     def __init__(
         self, app_key: str, secret: str, base_url: str = "https://wykop.pl/api/v3"
     ) -> None:
-        self.app_key = app_key
-        self.secret = secret
+        self.app_key = app_key.strip()
+        self.secret = secret.strip()
         self.base_url = base_url
         self.token: Optional[str] = None
         self.client = httpx.Client()
@@ -37,6 +39,7 @@ class WykopAPI:
             raise Exception(
                 f"Failed to authenticate: {response.status_code} - {response.text}"
             )
+        logger.debug(f"Authenticated successfully.")
         return self.token
 
     def make_request(
@@ -50,8 +53,15 @@ class WykopAPI:
         List of valid endpoints: Wykop API documentation: https://doc.wykop.pl/
         """
         if not self.token:
-            raise Exception("You must authenticate first")
+            raise Exception(
+                "You must authenticate first (call the `authenticate()` method)"
+            )
+        if not endpoint.startswith("/"):
+            endpoint = f"/{endpoint}"
+        if endpoint.endswith("/"):
+            endpoint = endpoint[:-1]
         url = f"{self.base_url}{endpoint}"
+        logger.debug(f"Making request to {url}")
         headers = {
             "Authorization": f"Bearer {self.token}",
             "Content-Type": "application/json",
@@ -68,11 +78,16 @@ class WykopAPI:
         method = method.upper()
         if method in http_methods:
             if method == "GET" or method == "DELETE":
-                response = http_methods[method](url, headers=headers, params=params)
+                response = http_methods[method](
+                    url, headers=headers, params=params, follow_redirects=True
+                )
             else:
-                response = http_methods[method](url, headers=headers, json=data)
+                response = http_methods[method](
+                    url, headers=headers, json=data, follow_redirects=True
+                )
         else:
             raise ValueError("Unsupported HTTP method")
+        response.raise_for_status()
         return response.json()
 
     def close(self) -> None:
