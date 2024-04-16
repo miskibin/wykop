@@ -1,13 +1,8 @@
 from setuptools import setup, find_packages
-from pathlib import Path
 
 __version__ = "1.0.4"
 __author__ = "Michał Skibiński"
 
-this_directory = Path(__file__).parent
-
-with open(this_directory / "readme.md") as f:
-    readme = f.read()
 
 setup(
     name="wykop",
@@ -15,8 +10,6 @@ setup(
     version=__version__,
     author=__author__,
     description="Python client for interacting with the Wykop API v3.",
-    long_description=readme,
-    long_description_content_type="text/markdown",
     author_email="michalskibinski109@gmail.com",
     url="https://github.com/michalskibinski109/wykop",
     packages=find_packages(),
