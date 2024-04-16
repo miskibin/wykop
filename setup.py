@@ -1,12 +1,25 @@
 from setuptools import setup, find_packages
+from pathlib import Path
+
+__version__ = "1.0.1"
+__author__ = "Michał Skibiński"
+
+this_directory = Path(__file__).parent
+
+with open(this_directory / "requirements.txt") as f:
+    requirements = f.read().splitlines()
+
+with open(this_directory / "README.md") as f:
+    readme = f.read()
 
 setup(
     name="wykop",
-    version="1.0.0",
+    install_requires=requirements,
+    version=__version__,
+    author=__author__,
     description="Python client for interacting with the Wykop API v3.",
-    long_description=open("README.md").read(),
+    long_description=readme,
     long_description_content_type="text/markdown",
-    author="Michal Skibinski",
     author_email="michalskibinski109@gmail.com",
     url="https://github.com/michalskibinski109/wykop",
     packages=find_packages(),
