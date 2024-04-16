@@ -1,7 +1,7 @@
 from setuptools import setup, find_packages
 from pathlib import Path
 
-__version__ = "1.0.2"
+__version__ = "1.0.3"
 __author__ = "Michał Skibiński"
 
 this_directory = Path(__file__).parent
