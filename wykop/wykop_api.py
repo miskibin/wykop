@@ -1,7 +1,9 @@
 from urllib.parse import urljoin
 import httpx
-from typing import Any, Dict, Optional, Literal
+from typing import Any, Dict, List, Optional, Literal, Union
 from loguru import logger
+from .models import Rank, User, Photo, Media, Votes, WykopItem, WykopLink, WykopEntry
+from pydantic import parse_obj_as
 
 
 class WykopAPI:
@@ -41,6 +43,42 @@ class WykopAPI:
             )
         logger.debug(f"Authenticated successfully.")
         return self.token
+
+    def get_entries_by_tag(
+        self,
+        tag_name: str,
+        page: int = 1,
+        limit: int = 25,
+        sort: Literal["all", "best"] = "best",
+        type: Literal["all", "author", "link", "entry"] = "all",
+        year: Optional[int] = None,
+        month: Optional[int] = None,
+    ) -> List[WykopItem]:
+        """Fetch entries by tag with optional pagination and filtering.
+        Args:
+            tag_name (str): The name of the tag to filter by.
+            page (int, optional): Page number of the results to fetch. Defaults to 1.
+            limit (int, optional): The number of entries per page. Defaults to 25.
+            sort (str, optional): The sorting method ('all', 'best'). Defaults to 'best'.
+            type (str, optional): The type of entries ('all', 'author', 'link', 'entry'). Defaults to 'all'.
+            year (int, optional): The year for filtering entries.
+            month (int, optional): The month for filtering entries.
+        """
+        endpoint = f"/tags/{tag_name}/stream"
+        params = {"page": page, "limit": limit, "sort": sort, "type": type}
+        if year:
+            params["year"] = year
+        if month:
+            params["month"] = month
+
+        response = self.make_request(endpoint, method="GET", params=params)
+        entries = []
+        for entry_data in response["data"]:
+            if entry_data.get("description"):
+                entries.append(parse_obj_as(WykopLink, entry_data))
+            else:
+                entries.append(parse_obj_as(WykopEntry, entry_data))
+        return entries
 
     def make_request(
         self,
