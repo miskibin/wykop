@@ -1,7 +1,7 @@
 from setuptools import setup, find_packages
 from pathlib import Path
 
-__version__ = "1.0.1"
+__version__ = "1.0.2"
 __author__ = "Michał Skibiński"
 
 this_directory = Path(__file__).parent
@@ -23,7 +23,6 @@ setup(
     author_email="michalskibinski109@gmail.com",
     url="https://github.com/michalskibinski109/wykop",
     packages=find_packages(),
-    install_requires=["httpx>=0.23.0"],
     classifiers=[
         "Development Status :: 3 - Alpha",
         "Intended Audience :: Developers",
@@ -34,6 +33,7 @@ setup(
         "Programming Language :: Python :: 3.9",
         "Programming Language :: Python :: 3.10",
         "Programming Language :: Python :: 3.11",
+        "Programming Language :: Python :: 3.12",
     ],
     python_requires=">=3.8",
 )
