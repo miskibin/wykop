@@ -1,3 +1,4 @@
+from datetime import datetime
 from typing import List, Optional
 from pydantic import BaseModel, HttpUrl
 
@@ -47,7 +48,7 @@ class Photo(BaseModel):
 
 
 class Media(BaseModel):
-    photo: Photo
+    photo: Optional[Photo]
     embed: Optional[dict]
 
 
@@ -65,7 +66,7 @@ class WykopItem(BaseModel):
     id: int
     slug: str
     author: User
-    created_at: str
+    created_at: datetime
     voted: int
     adult: bool
     tags: List[str]
