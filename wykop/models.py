@@ -98,6 +98,11 @@ class WykopItem(BaseModel):
     def desc_or_content(self):
         return getattr(self, "description", getattr(self, "content", ""))
 
+    def __str__(self):
+        return (
+            f"{self.desc_or_content}\n\n{self.url_if_exists}\n{self.tags}\n\n{80*'='}"
+        )
+
 
 class WykopLink(WykopItem):
     title: str
