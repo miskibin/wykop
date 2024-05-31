@@ -47,16 +47,17 @@ Zanim wyjdziesznie przegap tego, co ważne w finansach!Premier Tusk: Skala niepr
 
 tresc:
 
-================================================================================
-## kumoterstwo pierwsza klasa. sami oceńcie. https://niedlablokowiskawbystrej.pl/ https://bielskobiala.wyborcza.pl/bielskobiala/7,88025,30834423,wojt-kupil-na-poczatku-kadencji-dzialki-rolne-gmina-chce-tam.html
+
+## kumoterstwo pierwsza klasa. sami oceńcie. 
 
 #### tagi: korupcja
 
-tresc:
+tresc
 
 Wójt wykupił tanio działki rolne i chce je przekwalifikować na blokowi... (27 marca 2024) :: Wykop.pl   Menu Wykop.pl Wykop.pl  Główna Wykopalisko359 Mikroblog Szukaj:        Zaloguj się Zarejestruj się        Wykop.pl  Ciekawostki   CiekawostkiInformacje   InformacjeRozrywka   RozrywkaSport   SportMotoryzacja   MotoryzacjaTechnologia   TechnologiaUkraina   UkrainaGospodarka   GospodarkaPodróże   Podróże   Dostosuj Wykop do siebie Utwórz Kategorię   Wybierz treści, które Cię interesują  i zapisz jako Własną kategorię.     Tryb dzienny         Ten artykuł jest powiązany ze Znaleziskiem: "Wójt wykupił tanio działki rolne i chce je przekwalifikować na blokowisko!!!"  Zobacz dyskusję na jego temat na stronie Znaleziska.  
-        darrrio 27.03.2024, 10:02:17  Kumoterstwo pierwsza klasa. Sami oceńcie.https://niedlablokowiskawbystrej.pl/https://bielskobiala.wyborcza.pl/bielskobiala/7,88025,30834423,wojt-kupil-na-poczatku-kadencji-dzialki-rolne-gmina-chce-tam.html        Wykop © 2005-2024 Nowy Wykop O nas Reklama FAQ Kontakt Regulamin Polityka prywatności i cookies  Hity Ranking Osiągnięcia  więcej  RSS Wykopane Wykopalisko Komentowane  
-================================================================================
+darrrio 27.03.2024, 10:02:17  Kumoterstwo pierwsza klasa. Sami oceńcie.https://niedlablokowiskawbystrej.pl/https://bielskobiala.wyborcza.pl/bielskobiala/7,88025,30834423,wojt-kupil-na-poczatku-kadencji-dzialki-rolne-gmina-chce-tam.html        Wykop © 2005-2024 Nowy Wykop O nas Reklama FAQ Kontakt Regulamin Polityka prywatności i cookies  Hity Ranking Osiągnięcia  więcej  RSS Wykopane Wykopalisko Komentowane  
+
+
 ## najwyższa izba kontroli złoży dziś doniesienie do prokuratury na mateusza morawieckiego, michała dworczyka oraz jacka sasina. zarzuca im ustawienie zakupów w pandemii pod konkretne firmy. to sensacyjna historia, w której do spółeczki zajmującej się handlem pędzelkami kosmetycznymi trafiło 2 mld dol.
 
 #### tagi: pis, polityka, bekazpisu, korupcja, morawiecki
@@ -83,7 +84,7 @@ W tym sensie Lotos poniósł stratę. Ale to znaczy, że 30 mln zł ktoś zarobi
 Kontrolerzy NIK wezwali na zeznania wspomnianego w zeznaniach mężczyznę, który — wedle zeznań właścicielki firmy od akcesoriów kosmetycznych — zgłosił się do niej w sprawie zakupu sprzętu ochronnego. Okazał się oficerem Agencji Wywiadu. 
 Z kolei NIK zauważa, że "z informacji uzyskanych w Ministerstwie Aktywów Państwowych wynika, że ministerstwo nie posiada informacji o weryfikowaniu dostawców środków ochrony indywidualnej na rzecz KGHM i Lotos przez jakiekolwiek służby". 
 Słynny handlarz bronią Andrzej Izdebski, który w pandemii oszukał Ministerstwo Zdrowia na kontrakcie respiratorowym, także miał rekomendację Agencji Wywiadu. Dodatkowo potwierdzają to ujawnione niedawno przez Onet materiały z inwigilacji przez CBA Daniela Obajtka. W pandemii Orlen kupował od handlarza bronią materiały ochronne, tyle że Obajtek miał problem, bo Izdebski nie realizował zamówień. "No po prostu oszust, no po prostu oszust, którego wskazały służby, no niestety" — mówił Obajtek do swego zastępcy Adama Buraka, który dopinał kontrakt z Izdebskim. 
-================================================================================
+
 ## dwie osoby zostały zatrzymane przez funkcjonariuszy lubelskiego cba w sprawie korupcji menadżerskiej i nadużyć przez funkcjonariusza publicznego. z ustaleń wynika, że kierownik jednego z warszawskich banków miał przyjmować łapówki od osób reprezentujących firmę z branży nieruchomości.
 
 #### tagi: polska, patodeweloperka, nieruchomosci, banki, cba, korupcja
@@ -97,7 +98,7 @@ Z ustaleń postępowania przygotowawczego wynika, że osoby reprezentujące spó
 Funkcjonariusze lubelskiego CBA zatrzymali w Łodzi dwóch podejrzanych mężczyzn. Przeszukano również kilkanaście miejsc, w tym siedziby biur rachunkowych i siedziby spółek zajmujących się projektowaniem i wznoszeniem budynków. Funkcjonariusze zabezpieczyli dokumenty i sprzęt elektroniczny mogący mieć znaczenie dowodowe. 
 W Prokuraturze Okręgowej w Sieradzu zatrzymani usłyszeli zarzuty korupcji, nadużycia uprawnień przez funkcjonariusza publicznego i składania fałszywych zeznań. Dokonano również tymczasowego zajęcia samochodu wartego 250 tys. zł. 
                                                                                         Konfiskata aut pijanym kierowcom. Jest projekt ustawy łagodzącej przepisy                                         
-================================================================================
+
 ## aresztowania, zarzuty korupcyjne, zorganizowana grupa przestępcza, a w tle polityka, znani ludzie i… zbliżające się wybory. nowe wątki wokół collegium humanum w salonie24
 
 #### tagi: collegiumhumanum, cba, media, afera, korupcja, polityka
@@ -110,7 +111,7 @@ Znane osobistości studiowały na Collegium Humanum po to, aby otrzymać tytuł 
 Teraz jednak okazuje się, że dyplomy mogą być nieważne. CBA uważa, że dokumenty (nie wiadomo, czy wszystkie) są lewe. Część absolwentów miała dostawać papier, mimo że – delikatnie to nazywając – niezbyt ochoczo uczestniczyli w zajęciach. Inni dostawali dyplom po zdanym na 5 egzaminie – rzecz w tym, że informatycy na polecenie rektora robili tak, że wszystkie odpowiedzi były uznawane za poprawne. Mają być też przypadki płacenia za sam dyplom – nawet bez udawania, że się cokolwiek studiuje. Można też usłyszeć, że część dyplomów była przekazywana – zaufanym znajomym – jako prezent! 
 Jakby tego było mało, teraz dochodzi kolejny problem. - Dyplomów MBA Collegium Humanum są tysiące. Gdyby wszystkie miały być podpisywane osobiście przez rektora, to szef uczelni zajmowałby się tylko tym. A wiadomo, że miał też sporo innych obowiązków – słyszymy. - Dlatego też dochodziło do podrabiania podpisów Pawła Cz. Za rektora podpisywali współpracownicy, ale też jego przyjaciel. Ten wątek też jest w zainteresowaniu śledczych – dowiadujemy się. 
 Afera Collegium Humanum jest więc coraz poważniejsza i końca jej nie widać. W Warszawie prezydent Rafał Trzaskowski zarządził audyt ws dyplomów tej uczelni. Coraz częściej też mówi się, że dyplomy mogą zostać zawieszone – w trosce o spółki skarbu państwa i inne, w których radach nadzorczych mogą zasiadać zwykli oszuści.  
-================================================================================
+
 ## córeczka t̶a̶t̶u̶s̶i̶a̶ prezydenta dudy została przyłapana na tym, jak zawoziła swojego kota do weterynarza, korzystając z limuzyny służby ochrony państwa. wiele osób ma w pamięci, jak radosław sikorski wysyłał agentów biura ochrony rządu po pizzę. były to bulwersujące obrazki. teraz rolę przejęła
 
 #### tagi: polityka, korupcja, dlugopis, bekazpisu
@@ -122,7 +123,7 @@ NCZAS.INFO to obecnie jedyny w Polsce portal informacyjny, który gwarantuje wol
 Przechowywanie lub dostęp do danych technicznych jest ściśle konieczny do uzasadnionego celu umożliwienia korzystania z konkretnej usługi wyraźnie żądanej przez subskrybenta lub użytkownika, lub wyłącznie w celu przeprowadzenia transmisji komunikatu przez sieć łączności elektronicznej. 
 Przechowywanie techniczne lub dostęp, który jest używany wyłącznie do anonimowych celów statystycznych. Bez wezwania do sądu, dobrowolnego podporządkowania się dostawcy usług internetowych lub dodatkowych zapisów od strony trzeciej, informacje przechowywane lub pobierane wyłącznie w tym celu zwykle nie mogą być wykorzystywane do identyfikacji użytkownika. 
 Przechowywanie lub dostęp techniczny jest wymagany do tworzenia profili użytkowników w celu wysyłania reklam lub śledzenia użytkownika na stronie internetowej lub na kilku stronach internetowych w podobnych celach marketingowych. 
-================================================================================
+
 ## czterech pracowników krajowej administracji skarbowej pracujących w urzędzie skarbowym w nowym targu zatrzymanych pod zarzutem korupcji. agenci biura spraw wewnętrznych ministerstwa finansów działali na zlecenie śląskiego wydziału prokuratury krajowej.
 
 #### tagi: polska, nowytarg, korupcja, afera, prokuratura, finanse
@@ -133,7 +134,7 @@ Czterech cywilnych pracowników Krajowej Administracji Skarbowej pracujących w 
 Śledczy twierdzą, że cywilni pracownicy KAS, przyjmowali łapówki za to, że cyklicznie udzielali porad przedsiębiorcom z okolic Nowego Targu, jak unikać odpowiedzialności karno-skarbowej. Informowali ich między innymi o planach kontroli podatników. Ujawniać też mieli informacje, które posiadali w związku z pełnioną funkcją. 
 Cywilni pracownicy KAS usłyszeli zarzuty, za które grozi 10 lat więzienia. Wobec dwóch podejrzanych sąd zdecydował o tymczasowym areszcie. Dwaj pozostali mają policyjne dozory, musieli zapłacić poręczenie majątkowe. Zostali też zawieszeni w czynnościach służbowych. 
                                                                                         Konfiskata aut pijanym kierowcom. Jest projekt ustawy łagodzącej przepisy                                         
-================================================================================
+
 ## cba w collegium humanum. handel dyplomami na masową skalę. rektor zmuszał studentki do obcowania płciowego funkcjonariusze delegatury centralnego biura antykorupcyjnego w rzeszowie zatrzymali siedem osób. wśród zatrzymanych są osoby reprezentujące władze wa
 
 #### tagi: cba, pis, studenci, korupcja, afera
@@ -159,14 +160,14 @@ Kierującemu zorganizowaną grupą przestępczą Pawłowi Cz. w związku z pełn
 Pozostałym zatrzymanym zarzucono również udział w zorganizowanej grupie przestępczej założonej i kierowanej przez Pawła Cz. i popełnienie wspólnie z nim przestępstw związanych z przyjmowaniem korzyści majątkowych w zamian za wystawianie poświadczających nieprawdę dokumentów ukończenia studiów podyplomowych. 
 Wobec trzech podejrzanych prokurator wystąpił z wnioskiem do Sądu Rejonowego Katowice-Wschód w Katowicach o zastosowanie środka zapobiegawczego w postaci tymczasowego aresztowania. Sąd podzielając argumentację prokuratora uwzględnił wszystkie wnioski i zastosował tymczasowe aresztowanie, przy czym w odniesieniu do podejrzanej Iwony O. zastrzegł możliwość zmiany tego środka zapobiegawczego pod warunkiem wpłaty poręczenia majątkowego w kwocie 100 tys. zł. 
 Wobec pozostałych podejrzanych zastosowane zostały wolnościowej środki zapobiegawcze w postaci poręczenia majątkowego w wysokości od 40.000 złotych do 100.000 złotych, dozoru policji połączonego z zakazem kontaktowania się z innymi uczestnikami postępowania oraz zakaz opuszczania kraju połączonego z zatrzymaniem paszportów. 
-================================================================================
+
 ## lekarz marcin sowinski, specjalista medycyny rodzinnej ujawnia gigantyczną korupcję i podejrzenie popełnienia przestępstwa przez całą plejadę...
 
 #### tagi: korupcja, medycyna, polska, polityka
 
 tresc:
 
-================================================================================
+
 ## wszystko wskazuje na to, że podczas przetargu doszło do naruszenia przepisów karnych, mogło dojść do korupcji - tłumaczy
 
 #### tagi: polska, korupcja, edukacja, szkola, bekazpisu, polityka
@@ -181,7 +182,7 @@ W 2023 roku uczniowie IV klas otrzymali od rządu laptopy na podstawie ustawy o 
   Pod koniec listopada 2023 roku Komisja Europejska wskazała, że wydatek nie będzie kwalifikowany do refinansowania. Cały program został przygotowany na szybko, bez kompleksowej strategii, bez konsultacji, nie przygotowano także żadnej edukacyjnej aplikacji, która miałaby realnie wspierać rozwój kompetencji cyfrowych dzieci, bądź wspierać rodziców 
 Jednocześnie zapewniono, że nowy rząd zamierza uzdrowić ten program, aby dawał realne wsparcie dla uczniów. Jego założenia mają być konsultowane, zarówno w zakresie doboru sprzętu, jak i narzędzi edukacyjnych dostarczonych uczniom. "Założeniem jest, aby uczniowie otrzymali urządzenia mobilne w 2025 roku" - pisze Ministerstwo Cyfryzacji. 
 Właściciel niniejszego serwisu internetowego korzystając z uprawnienia, przyznanego przez art. 4 ust. 3 Dyrektywy Parlamentu Europejskiego i Rady (UE) 2019/790 z dnia 17 kwietnia 2019 r. w sprawie prawa autorskiego i praw pokrewnych na jednolitym rynku cyfrowym oraz zmiany dyrektyw 96/9/WE i 2001/29/WE (Dz. U. UE. L. z 2019 r. Nr 130, str. 92) nie wyraża zgody na zwielokrotnianie, wykorzystywanie lub przechowywanie jakichkolwiek treści w postaci tekstów i danych oraz programów komputerowych i baz danych dostępnych w serwisie internetowym, w celu ich eksploracji polegającej na analizie, również przy zastosowaniu zautomatyzowanych technik, dążącej do wygenerowania informacji obejmujących w szczególności wzorce, tendencje i korelacje. Powyższe zastrzeżenie nie dotyczy eksploracji treści dokonywanej w celu umieszczania stron internetowych w ramach wyników wyszukiwania, jak też nie ma na celu i nie może być interpretowane jako wyłączenie lub ograniczenie uprawnień konsumentów do korzystania z treści w ramach udzielonego zezwolenia lub dozwolonego użytku. 
-================================================================================
+
 ## pięć osób zatrzymało centralne biuro antykorupcyjne w związku z podejrzeniem korupcji w ośrodku dokumentacji geodezyjnej i kartograficznej w poznaniu. jeden z urzędników miał przyjmować łapówki od biznesmenów.
 
 #### tagi: polska, lapowki, korupcja, nieruchomosci
@@ -194,7 +195,7 @@ Sprawa dotyczy Powiatowego Ośrodka Dokumentacji Geodezyjnej i Kartograficznej 
 Urzędnik geodezyjnego powiatowego ośrodka miał przyjmować łapówki od prywatnych przedsiębiorców. Dziać się to miało w związku z wykonywaniem przez niego obowiązków służbowych. Według prokuratury za pieniądze przekazywał przedstawicielom lokalnej branży nieruchomości informacje pochodzące z zasobów informatycznych swego urzędu. Chodzi o dane między innymi na temat gruntów i ich właścicieli. 
 Zatrzymani urzędnik i biznesmeni usłyszeli zarzuty korupcyjne, za które grozi 8 lat więzienia. Wobec wszystkich podejrzanych prokuratura zastosowała policyjne dozory oraz poręczenia majątkowe w kwocie od 20 do 50 tysięcy złotych. Część z nich ma też zakaz opuszczania kraju. 
                                                                                         Konfiskata aut pijanym kierowcom. Jest projekt ustawy łagodzącej przepisy                                         
-================================================================================
+
 ## prokuratura w lublinie przedstawiła 59-letniej lucynie p. dziesięć zarzutów, z czego najpoważniejszy dotyczy przywłaszczenia prawie 700 tys. zł, a pozostałe m.in. składania fałszywych oświadczeń. chodzi o wicewojewodę podkarpackiego w latach 2018-2020 za zarzucane jej czyny grozi do 10 lat więzienia
 
 #### tagi: podkarpacie, polityka, bekazpisu, korytominus, prawo, korupcja
@@ -206,4 +207,4 @@ Informacje o śledztwie przekazała rzeczniczka Prokuratury Okręgowej w Lublini
 Według ustaleń - będąc upoważnioną do dysponowania środkami pieniężnymi zgromadzonymi na rachunkach bankowych tych instytucji - przywłaszczyła i rozdysponowała na cele niezwiązane z działalnością placówki kwotę prawie 700 tys. zł. 
 Podejrzaną jest wicewojewoda podkarpacki w latach 2018-2020. Później była wiceprezesem zarządu PGNiG Technologie w Krośnie. Wcześniej m.in. dyrektorem biura poselskiego Marka Kuchcińskiego, radną, wiceprzewodniczącą i przewodniczącą Rady Miasta Przemyśla. 
                                                                                         Konfiskata aut pijanym kierowcom. Jest projekt ustawy łagodzącej przepisy                                         
-================================================================================
+
